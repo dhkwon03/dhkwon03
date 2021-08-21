@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhkwon03
 - 👀 I’m interested in Electrical Engineering and Computer Science.
 - 👉🏼 Also, I'm very interested in Artificial Intelligence.
-- 🌱 I’m in bachelor's course.
+- 🌱 I’m in bachelor's course at KAIST.
 - 📫 You can reach me through this email; doheon.kwon@gmail.com, dhkwon03@kaist.ac.kr 
 
 <!---
