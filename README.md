@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhkwon03
 - 👀 I’m interested in Electrical Engineering and Computer Science.
-- 👉🏼 Also, I'm very interested in Artificial Intelligence.
+- 👉🏼 Also, I'm very interested in Chip design and Artificial Intelligence.
 - 🌱 I’m in bachelor's course at KAIST EE.
 - 📫 You can reach me through this email; dhkwon03@kaist.ac.kr, doheon.kwon@gmail.com  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhkwon03&count_bg=%2379C83D&title_bg=%232D6DE5&icon=&icon_color=%23E912DA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
